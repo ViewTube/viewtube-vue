@@ -43,7 +43,7 @@
     "@nestjs/passport": "8.0.0",
     "@nestjs/platform-express": "8.0.4",
     "@nestjs/schedule": "1.0.0",
-    "@nestjs/swagger": "5.0.3",
+    "@nestjs/swagger": "5.0.4",
     "@nestjs/testing": "8.0.4",
     "@nuxt/vue-app": "2.15.7",
     "@nuxtjs/axios": "5.13.6",
